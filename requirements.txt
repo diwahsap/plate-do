@@ -1,0 +1,5 @@
+pandas==1.5.3
+ultralytics==8.0.152
+streamlit
+st-pages
+streamlit-extras
